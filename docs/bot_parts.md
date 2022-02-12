@@ -1,3 +1,4 @@
+[index](../README.md#index)
 ### bot_parts
 ```
 # Example of a part entry
@@ -70,4 +71,4 @@ List of tuples where each entry consists of the following:
 Same as for `list_target_chances` but applies to events with a specific tag instead of specific events.\
 Tags currently used in the game `all`, `cheap`, `nice`, `good`, `luxury`
 
-[top](bot_parts.md#bot_parts)
+[index](../README.md#index) [top](#bot_parts)

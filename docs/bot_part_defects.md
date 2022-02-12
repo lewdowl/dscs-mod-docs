@@ -1,3 +1,4 @@
+[index](../README.md#index)
 ### bot_part_defects
 ```
 "bot_part_defects": [
@@ -49,4 +50,4 @@ Whether or not the presence of this defect will disable the part.
 - destroyed - _optional_\
 Whether or not the apperance of this defect will destroy the part.
 
-[top](bot_part_defects.md#bot_part_defects)
+[index](../README.md#index) [top](#bot_part_defects)

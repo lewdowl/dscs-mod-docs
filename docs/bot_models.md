@@ -1,3 +1,4 @@
+[index](../README.md#index)
 ### bot_models
 ```
 "bot_models": [
@@ -41,7 +42,7 @@ The name of the model, as it will appear in the game. Not to be confused with th
 The description of the model, as it will appear in the game.
 
 - name_variants - _optional_\
-A name_table_id ([see mod doc](docs/mod.md)) or a list of names. When a bot of this model is generated, its name will be randomly selected from this table.
+A name_table_id ([see mod doc](mod.md)) or a list of names. When a bot of this model is generated, its name will be randomly selected from this table.
 
 - gender - _optional\
 `male` or `female`
@@ -75,4 +76,4 @@ Tags currently used in the game `all`, `cheap`, `nice`, `good`, `luxury`
 Determines how much experience a bot of this model will have in each skill upon generation. Can be set to `default`, which will allow for the event triggering the generation to determine the starting experience in each skill.\
 If not `default`, it can be set to a list of entries of the following format: `[skill_id, (min_xp, max_xp)]` where `skill_id` must be one of the possible skills prefixed with **bot_** e.g. `bot_combat`. The `min_xp` and `max_xp` makes up a range from which the starting experience for the specified skill will be randomized. `min_xp` can be set to a negative value, which allows for the possibility that the generated bot doesn't have any experience in that skill.
 
-[top](docs/bot_models.md#bot_models)
+[index](../README.md#index) [top](#bot_models)

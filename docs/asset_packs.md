@@ -1,3 +1,4 @@
+[index](../README.md#index)
 ### asset_packs
 ```
 "asset_packs": [
@@ -25,3 +26,5 @@ For `mods/mod_name/assets/images/bots/bot/` the string should be `"bots bot"` in
 `mods/mod_name/assets/images/images/bots/bot` should also be `"bots bot"` while `mods/mod_name/assets/images/bots/images/bot` should be `"bost images bot"`
 
 As is hopefully apparent from these examples, _images_ can (and should) only be ignored if it is placed in a continuous chain of _images_ folders directly beneath _assets_. 
+
+[index](../README.md#index) [top](#asset_packs)

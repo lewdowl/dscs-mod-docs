@@ -1,3 +1,4 @@
+[index](../README.md#index)
 ### bot_part_slots
 ```
 "bot_part_slots": [
@@ -34,4 +35,4 @@ Affects how much damage parts using this slot id should take when the specified 
 Each entry consist of a event, weight pair.
 
 
-[top](docs/bot_part_slots.md#bot_part_slots)
+[index](../README.md#index) [top](#bot_part_slots)
