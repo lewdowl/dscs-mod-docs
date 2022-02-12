@@ -64,7 +64,7 @@ List of tuples where each entry consists of the following:
  
  - list_target_chances - _optional_\
  Chances that this part will appear for specific events. Dict of event_id(?), weight pairs.\
- Weight != probability, so weight = 100 does not guarantee that the part will appear. It depends of how many other parts (and models?) are flagged for this event and their weight.
+ Weight != probability, so weight = 100 does not guarantee that the part will appear. It depends on how many other parts (and models?) are flagged for this event and their weight.
 
 - list_target_tag_chances - _optional_\
 Same as for `list_target_chances` but applies to events with a specific tag instead of specific events.\

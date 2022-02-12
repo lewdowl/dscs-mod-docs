@@ -30,11 +30,11 @@ Is used to determine the load order of all installed mods. In case of a collisio
 - asset_packs - _optional_\
 Tells the game where to look for assets, basically a mapping.\
 Entries should be on the following format `("bots example_bot", "mybot")`\
-[more info here](asset_packs.md)
+[more info here](docs/asset_packs.md)
 
 - dscs_tunings - _optional_\
 Fine tune certain aspects of the game\
-[more info here](dscs_tunings.md)
+[more info here](docs/dscs_tunings.md)
 
 - name_tables - _optional_\
 Here you can add your own name tables. The dict key will be the table id and the value should be a list of possible names.\
@@ -42,16 +42,16 @@ When adding name variants to a model, it's the key/table id that you should use.
 
 - bot_part_defects - _optional_\
 Part defect definitions goes here\
-[more info here](bot_part_defects.md)
+[more info here](docs/bot_part_defects.md)
 
 - bot_part_slots - _optional_\
 Part slot definitions goes here\
-[more info here](bot_part_slots.md)
+[more info here](docs/bot_part_slots.md)
 
 - bot_parts - _optional_\
 Part definitions goes here\
-[more info here](bot_parts.md)
+[more info here](docs/bot_parts.md)
 
 - bot_models - _optional_\
 Model definitions goes here\
-[more info here](bot_models.md)
+[more info here](docs/bot_models.md)
